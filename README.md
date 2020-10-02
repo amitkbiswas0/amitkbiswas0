@@ -10,7 +10,7 @@ Hi! I'm Amit Biswas, currently pursuing my bachelor's degree in **Computer Scien
 
 ## **Used/Using**
 
-> **Language**
+> **Languages**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -18,24 +18,24 @@ Hi! I'm Amit Biswas, currently pursuing my bachelor's degree in **Computer Scien
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
-> **Front-end Framework**
+> **Front-end Frameworks**
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css)
 
-> **Backend Framework**
+> **Backend Frameworks**
 
 ![Django](https://img.shields.io/badge/-django-black?style=flat-square&logo=Django)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![ASP.NET Core](https://img.shields.io/badge/-dotnetcore-black?style=flat-square&logo=.NET)
 
-> **Database**
+> **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-> **Hosting Platform**
+> **Hosting Platforms**
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
@@ -49,4 +49,4 @@ Hi! I'm Amit Biswas, currently pursuing my bachelor's degree in **Computer Scien
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 [![Stat](https://github-readme-stats.vercel.app/api?username=amitkbiswas0&theme=dark&show_icons=true)](https://github.com/amitkbiswas0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkbiswas0&layout=compact&exclude_repo=ocr-cnn,covid19-detection-xray,course-projects)](https://github.com/amitkbiswas0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkbiswas0&exclude_repo=ocr-cnn,covid19-detection-xray,course-projects)](https://github.com/amitkbiswas0/github-readme-stats)
