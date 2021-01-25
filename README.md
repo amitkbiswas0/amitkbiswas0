@@ -3,7 +3,7 @@
 Hi! I'm Amit Biswas, currently pursuing my bachelor's degree in **Computer Science and Engineering** from [United International University](http://www.uiu.ac.bd/) and working as a **Software Engineering Intern** at [Magpie Analytics](https://www.magpieanalytics.com/). Although a bit skeptical about humans and machines alike, I'm quite enthusiastic about collaborating and working on ideas that have real impacts! Find out more about me/Contact me below.
 
 [![Linkedin Badge](https://img.shields.io/badge/-amitkbiswas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/amitkbiswas01/)](https://linkedin.com/in/amitkbiswas01/)
-[![Gmail Badge](https://img.shields.io/badge/-amit.biswas6991@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amit.biswas6991@gmail.com)](mailto:amit.biswas6991@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-amit.biswas6991@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amitkbiswas01@gmail.com)](mailto:amitkbiswas01@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-amit_takesphoto-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/amit_takesphoto/)](https://instagram.com/amit_takesphoto)
 [![Facebook Badge](https://img.shields.io/badge/-amit.b616-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/amit.b616/)](https://www.facebook.com/amit.b616/)
 [![Twitter Badge](https://img.shields.io/badge/-amit__b-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/amit__b)](https://twitter.com/amit__b)
