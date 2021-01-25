@@ -45,5 +45,5 @@ Hi! I'm Amit Biswas, currently pursuing my bachelor's degree in **Computer Scien
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![Shell](https://img.shields.io/badge/-zsh-black?style=flat-square&logo=gnu-bash)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkbiswas01&exclude_repo=ocr-cnn,covid19-detection-xray,course-projects&layout=compact)](https://github.com/amitkbiswas01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkbiswas01&hide=html,css&layout=compact)](https://github.com/amitkbiswas01/github-readme-stats)
 [![Stat](https://github-readme-stats.vercel.app/api?username=amitkbiswas01&theme=dark&show_icons=true)](https://github.com/amitkbiswas01/github-readme-stats)
