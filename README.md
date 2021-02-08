@@ -27,9 +27,12 @@ Hi! I'm Amit Biswas, currently pursuing my bachelor's degree in **Computer Scien
 
 > **Back-end Technologies**
 
-![Django](https://img.shields.io/badge/-django-black?style=flat-square&logo=Django)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
+![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-black?style=flat-square&logo=Django)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![ASP.NET Core](https://img.shields.io/badge/-dotnetcore-black?style=flat-square&logo=.NET)
+
+<!-- ![ASP.NET Core](https://img.shields.io/badge/-dotnetcore-black?style=flat-square&logo=.NET) -->
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
