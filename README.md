@@ -1,6 +1,6 @@
 <img src="dog.gif" width="50px">
 
-Hi! I'm Amit Biswas, currently pursuing my bachelor's degree in **Computer Science and Engineering** from [United International University](http://www.uiu.ac.bd/) and working as a **Software Engineering Intern** at [Magpie Analytics](https://www.magpieanalytics.com/). Although skeptical about humans and machines alike, I'm quite enthusiastic about collaborating and working on ideas that have real impacts! You can find out more about me below.
+Hi! I'm Amit Biswas, currently pursuing my bachelor's degree in **Computer Science and Engineering** from [United International University](http://www.uiu.ac.bd/) and working as a **Jr. Full Stack Engineer** at [Magpie Analytics](https://www.magpieanalytics.com/). Although skeptical about humans and machines alike, I'm quite enthusiastic about collaborating and working on ideas that have real impacts! You can find out more about me below.
 
 [![Linkedin Badge](https://img.shields.io/badge/-amitkbiswas01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/amitkbiswas01/)](https://linkedin.com/in/amitkbiswas01/)
 [![Gmail Badge](https://img.shields.io/badge/-amitkbiswas01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amitkbiswas01@gmail.com)](mailto:amitkbiswas01@gmail.com)
